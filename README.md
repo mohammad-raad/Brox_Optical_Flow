@@ -18,7 +18,7 @@ Original paper: Brox, T., Bruhn, A., Papenberg, N., & Weickert, J. (2004). High 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Brox_Optical_Flow.git
+   git clone https://github.com/mohammad-raad/Brox_Optical_Flow.git
    cd Brox_Optical_Flow
    ```
 
